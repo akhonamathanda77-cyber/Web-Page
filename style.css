@@ -1,0 +1,31 @@
+/* Style for body element */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: bisque;
+    margin: 20px;
+}
+
+/* Style for header element */
+header {
+    background-color: #ecd586;
+    padding: 10px;
+}
+
+/* Style for nav element */
+nav {
+    background-color: #e7e1eb;
+    padding: 10px;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-image: url('C:/Users/Akhona.Mathanda/Downloads/japan-park1.jpg'), 
+                    url('C:/Users/Akhona.Mathanda/Downloads/japan-park2.jpg');
+  background-size: cover, cover;
+  background-position: center, center;
+  background-repeat: no-repeat, no-repeat;
+}
+footer  {
+    background-color: antiquewhite;
+}
